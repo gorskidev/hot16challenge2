@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hot16challenge2/static/css/main.12636242.chunk.css",
-    "main.js": "/hot16challenge2/static/js/main.6cc5af6a.chunk.js",
-    "main.js.map": "/hot16challenge2/static/js/main.6cc5af6a.chunk.js.map",
+    "main.css": "/hot16challenge2/static/css/main.7e58ac84.chunk.css",
+    "main.js": "/hot16challenge2/static/js/main.4fc53587.chunk.js",
+    "main.js.map": "/hot16challenge2/static/js/main.4fc53587.chunk.js.map",
     "runtime-main.js": "/hot16challenge2/static/js/runtime-main.918a7fde.js",
     "runtime-main.js.map": "/hot16challenge2/static/js/runtime-main.918a7fde.js.map",
     "static/js/2.94eca825.chunk.js": "/hot16challenge2/static/js/2.94eca825.chunk.js",
     "static/js/2.94eca825.chunk.js.map": "/hot16challenge2/static/js/2.94eca825.chunk.js.map",
     "index.html": "/hot16challenge2/index.html",
-    "precache-manifest.d0b7ddeb4016ed415df98769c789f72b.js": "/hot16challenge2/precache-manifest.d0b7ddeb4016ed415df98769c789f72b.js",
+    "precache-manifest.56e56d22745190a942aaaaa049a277b5.js": "/hot16challenge2/precache-manifest.56e56d22745190a942aaaaa049a277b5.js",
     "service-worker.js": "/hot16challenge2/service-worker.js",
-    "static/css/main.12636242.chunk.css.map": "/hot16challenge2/static/css/main.12636242.chunk.css.map",
+    "static/css/main.7e58ac84.chunk.css.map": "/hot16challenge2/static/css/main.7e58ac84.chunk.css.map",
     "static/js/2.94eca825.chunk.js.LICENSE.txt": "/hot16challenge2/static/js/2.94eca825.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.918a7fde.js",
     "static/js/2.94eca825.chunk.js",
-    "static/css/main.12636242.chunk.css",
-    "static/js/main.6cc5af6a.chunk.js"
+    "static/css/main.7e58ac84.chunk.css",
+    "static/js/main.4fc53587.chunk.js"
   ]
 }
