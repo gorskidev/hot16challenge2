@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hot16challenge2/static/css/main.f89dd071.chunk.css",
+    "main.js": "/hot16challenge2/static/js/main.0a08299d.chunk.js",
+    "main.js.map": "/hot16challenge2/static/js/main.0a08299d.chunk.js.map",
+    "runtime-main.js": "/hot16challenge2/static/js/runtime-main.918a7fde.js",
+    "runtime-main.js.map": "/hot16challenge2/static/js/runtime-main.918a7fde.js.map",
+    "static/js/2.94eca825.chunk.js": "/hot16challenge2/static/js/2.94eca825.chunk.js",
+    "static/js/2.94eca825.chunk.js.map": "/hot16challenge2/static/js/2.94eca825.chunk.js.map",
+    "index.html": "/hot16challenge2/index.html",
+    "precache-manifest.38bdc236d64c420aa7435a09577c6155.js": "/hot16challenge2/precache-manifest.38bdc236d64c420aa7435a09577c6155.js",
+    "service-worker.js": "/hot16challenge2/service-worker.js",
+    "static/css/main.f89dd071.chunk.css.map": "/hot16challenge2/static/css/main.f89dd071.chunk.css.map",
+    "static/js/2.94eca825.chunk.js.LICENSE.txt": "/hot16challenge2/static/js/2.94eca825.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.918a7fde.js",
+    "static/js/2.94eca825.chunk.js",
+    "static/css/main.f89dd071.chunk.css",
+    "static/js/main.0a08299d.chunk.js"
+  ]
+}
