@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8df369712a4d6e627ef0ebd80a4cf137",
+    "revision": "e60ff62a83bd125b2a9bff0919daf464",
     "url": "/hot16challenge2/index.html"
   },
   {
-    "revision": "2c7c6ddaa66334befc09",
+    "revision": "138faecd0a947510a783",
     "url": "/hot16challenge2/static/css/main.6303a411.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hot16challenge2/static/js/2.94eca825.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c7c6ddaa66334befc09",
-    "url": "/hot16challenge2/static/js/main.73249ea1.chunk.js"
+    "revision": "138faecd0a947510a783",
+    "url": "/hot16challenge2/static/js/main.fcd06f19.chunk.js"
   },
   {
     "revision": "0bdaa74016a5ca742e21",

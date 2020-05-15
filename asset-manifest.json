@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hot16challenge2/static/css/main.6303a411.chunk.css",
-    "main.js": "/hot16challenge2/static/js/main.73249ea1.chunk.js",
-    "main.js.map": "/hot16challenge2/static/js/main.73249ea1.chunk.js.map",
+    "main.js": "/hot16challenge2/static/js/main.fcd06f19.chunk.js",
+    "main.js.map": "/hot16challenge2/static/js/main.fcd06f19.chunk.js.map",
     "runtime-main.js": "/hot16challenge2/static/js/runtime-main.918a7fde.js",
     "runtime-main.js.map": "/hot16challenge2/static/js/runtime-main.918a7fde.js.map",
     "static/js/2.94eca825.chunk.js": "/hot16challenge2/static/js/2.94eca825.chunk.js",
     "static/js/2.94eca825.chunk.js.map": "/hot16challenge2/static/js/2.94eca825.chunk.js.map",
     "index.html": "/hot16challenge2/index.html",
-    "precache-manifest.110d8c080a13cfb17a9dcbe64e3efb60.js": "/hot16challenge2/precache-manifest.110d8c080a13cfb17a9dcbe64e3efb60.js",
+    "precache-manifest.523719c6a19b9e7a95a436434efcd012.js": "/hot16challenge2/precache-manifest.523719c6a19b9e7a95a436434efcd012.js",
     "service-worker.js": "/hot16challenge2/service-worker.js",
     "static/css/main.6303a411.chunk.css.map": "/hot16challenge2/static/css/main.6303a411.chunk.css.map",
     "static/js/2.94eca825.chunk.js.LICENSE.txt": "/hot16challenge2/static/js/2.94eca825.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.918a7fde.js",
     "static/js/2.94eca825.chunk.js",
     "static/css/main.6303a411.chunk.css",
-    "static/js/main.73249ea1.chunk.js"
+    "static/js/main.fcd06f19.chunk.js"
   ]
 }
